@@ -30,6 +30,6 @@
 Example:
 > [Common] Update common repository to v1.0.12
 
-***[Common]*** - the feature tag including the information of where this issue will be developed for.
+**[Common]** - *the feature tag including the information of where this issue will be developed for.*
 
-***Update common repository to v1.0.12*** - the descriptive sentence about the issue goal.
+**Update common repository to v1.0.12** - *the descriptive sentence about the issue goal.*
